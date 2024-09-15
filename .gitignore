@@ -1,0 +1,8 @@
+# Xcode
+*.xcuserstate
+*.xcworkspace
+*.xcuserdata
+*.swp
+*.swo
+DerivedData/
+build/
